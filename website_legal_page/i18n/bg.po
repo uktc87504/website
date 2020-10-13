@@ -94,14 +94,14 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_legal_page.terms_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Changes"
-msgstr ""
+msgstr "Промени"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
 #: model:ir.ui.view,arch_db:website_legal_page.privacy_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.privacy_page
 msgid "Changes To This Privacy Policy"
-msgstr ""
+msgstr "Промени в Политиката за Поверителност"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
@@ -111,14 +111,14 @@ msgstr ""
 #: model:website.page,arch_db:website_legal_page.privacy_page
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Contact Us"
-msgstr ""
+msgstr "Свържете се с нас"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
 #: model:ir.ui.view,arch_db:website_legal_page.privacy_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.privacy_page
 msgid "Cookies"
-msgstr ""
+msgstr "Бисквитки"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
@@ -144,19 +144,19 @@ msgstr ""
 #: model:website.page,arch_db:website_legal_page.privacy_page
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Email address:"
-msgstr ""
+msgstr "Имейл адрес:"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
 #: model:ir.ui.view,arch_db:website_legal_page.terms_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Governing Law"
-msgstr ""
+msgstr "Управляващ Закон"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.acceptance_full
 msgid "I accept the"
-msgstr ""
+msgstr "Аз приемам"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
@@ -166,14 +166,14 @@ msgstr ""
 #: model:website.page,arch_db:website_legal_page.privacy_page
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "If you have any questions about these Terms, please contact us."
-msgstr ""
+msgstr "Ако имате някакви въпроси относно тези Правила, моля, свържете се с нас."
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
 #: model:ir.ui.view,arch_db:website_legal_page.privacy_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.privacy_page
 msgid "Information Collection And Use"
-msgstr ""
+msgstr "Събиране на Информация и Употреба"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.advice
@@ -181,7 +181,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_legal_page.legal_advice_link
 #: model:website.page,arch_db:website_legal_page.advise_page
 msgid "Legal Advice"
-msgstr ""
+msgstr "Законови Въпроси"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
@@ -221,14 +221,14 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_legal_page.terms_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Links To Other Web Sites"
-msgstr ""
+msgstr "Връзки към Други Сайтове"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
 #: model:ir.ui.view,arch_db:website_legal_page.privacy_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.privacy_page
 msgid "Log Data"
-msgstr ""
+msgstr "Логове"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
@@ -285,7 +285,7 @@ msgstr ""
 #: model:website.page,arch_db:website_legal_page.privacy_page
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Phone number:"
-msgstr ""
+msgstr "Телефон:"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
@@ -303,28 +303,28 @@ msgstr ""
 #: model:website.page,arch_db:website_legal_page.privacy_page
 #, fuzzy
 msgid "Privacy Policy"
-msgstr "политика за личните данни"
+msgstr "Политика за Поверителност"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
 #: model:ir.ui.view,arch_db:website_legal_page.privacy_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.privacy_page
 msgid "Security"
-msgstr ""
+msgstr "Сигурност"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
 #: model:ir.ui.view,arch_db:website_legal_page.terms_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Termination"
-msgstr ""
+msgstr "Прекратяване"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
 #: model:ir.ui.view,arch_db:website_legal_page.terms_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Terms of Use (\"Terms\")"
-msgstr ""
+msgstr "Условия за Употреба"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
@@ -332,14 +332,14 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_legal_page.terms_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "Terms of use"
-msgstr ""
+msgstr "Условия за употреба"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.advice
 #: model:ir.ui.view,arch_db:website_legal_page.advise_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.advise_page
 msgid "The owner of this website is"
-msgstr ""
+msgstr "Собственикът на този сайт е"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.privacy-policy
@@ -371,7 +371,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_legal_page.advise_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.advise_page
 msgid "VAT number:"
-msgstr ""
+msgstr "ДДС номер:"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
@@ -465,7 +465,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:website_legal_page.advise_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.advise_page
 msgid "You can contact us at:"
-msgstr ""
+msgstr "Можете да се свържете с нас на:"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
@@ -482,26 +482,26 @@ msgstr ""
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.acceptance_full
 msgid "legal advice"
-msgstr ""
+msgstr "правни въпроси"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.acceptance_full
 msgid "of this website."
-msgstr ""
+msgstr "на този сайт."
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.acceptance_full
 msgid "privacy policy"
-msgstr "политика за личните данни"
+msgstr "политика за поверителност"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.acceptance_full
 msgid "terms of use"
-msgstr ""
+msgstr "условия за употреба"
 
 #. module: website_legal_page
 #: model:ir.ui.view,arch_db:website_legal_page.terms-of-use
 #: model:ir.ui.view,arch_db:website_legal_page.terms_page_ir_ui_view
 #: model:website.page,arch_db:website_legal_page.terms_page
 msgid "website (the \"Service\") operated by ​"
-msgstr ""
+msgstr "сайт (Услугата), aдминистриран от "
